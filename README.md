@@ -13,4 +13,8 @@ It demonstrates **encryption and decryption** using the **Caesar Cipher algorith
 - Supports custom shift values
 
 ### 🔹 Example
+Plain Text: HELLO
+Shift Key: 3
+Encrypted Text: KHOOR
+Decrypted Text: HELLO
 
